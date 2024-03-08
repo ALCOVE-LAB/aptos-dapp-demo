@@ -1,0 +1,9 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "vue.codeActions.enabled": true,
+  "i18n-ally.localesPaths": ["src/locals"],
+  "i18n-ally.keystyle": "nested"
+}
+
